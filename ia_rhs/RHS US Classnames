@@ -1,0 +1,21 @@
+///////////////////// US Army Desert Camo /////////////////////
+
+//// APCs ////
+
+rhsusf_m113d_usarmy
+rhsusf_m113d_usarmy_M240
+rhsusf_m113d_usarmy_medical
+rhsusf_m113d_usarmy_MK19
+rhsusf_m113d_usarmy_supply
+rhsusf_m113d_usarmy_unarmed
+
+RHS_M2A2
+RHS_M2A2_BUSKI
+
+RHS_M2A3
+RHS_M2A3_BUSKI
+RHS_M2A3_BUSKIII
+
+RHS_M6
+
+note: see if these classnames works first, if they work, i'll fill in the rest

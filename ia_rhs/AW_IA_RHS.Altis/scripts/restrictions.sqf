@@ -67,7 +67,9 @@ _sniperSpecialised = ["srifle_GM6_F",
 //===== SNIPER OPTICS
 _sniperTeam = ["rhsusf_army_ocp_sniper"];
 _sniperOpt = ["optic_SOS",
-			  "optic_LRPS"
+			  "optic_LRPS",
+			  "rhsusf_acc_LEUPOLDMK4",
+			  "rhsusf_acc_LEUPOLDMK4_2"
 			  ];
 //===== THERMAL OPTICS
 _opticsAllowed = ["rhsusf_usmc_lar_marpat_wd_squadleader",
@@ -175,7 +177,9 @@ _marksmanGun = ["srifle_DMR_02_ACO_F",
 				"srifle_DMR_05_tan_f",
 				"srifle_DMR_06_camo_F",
 				"srifle_DMR_06_camo_khs_F",
-				"srifle_DMR_06_olive_F"
+				"srifle_DMR_06_olive_F",
+				"rhs_weap_sr25",
+				"rhs_weap_sr25_ec"
 				];
 
 
